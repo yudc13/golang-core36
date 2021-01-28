@@ -7,7 +7,7 @@ import (
 	"os"
 )
 
-func init()  {
+func init() {
 	lib1.Hello()
 }
 
